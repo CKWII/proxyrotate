@@ -1,4 +1,10 @@
 # proxyrotate
+```
+THIS IS FOR STUDY AND EDUCATIONAL PURPOSE ONLY!!
+'''
+
+
+
 what you need 
 pip/pip3/python3 install requests
 pip/pip3/python3 install time
